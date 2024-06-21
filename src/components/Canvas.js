@@ -10,7 +10,7 @@ export default function Canvas(){
     <div class='square'> 
       <img class='qrcode' src={uncle_sam} alt='qrcode front-end'/> 
       <h1 class="wraptext">Empower Your Innovation: Automation in Action</h1>
-      <p class="subtext"> Your Vision, Our Automation. Togethor, We Bring Ideas To Life!</p>
+      <p class="subtext"> Your Vision, Our Automation. Together, We Bring Ideas To Life!</p>
     </div>  
    </div> 
   ); 
