@@ -40,7 +40,6 @@ const FormComponent = () => {
               <option value="2220921">Darren Siriram</option>
               <option value="xxx">Bryan de Kwant</option>
               <option value="xxx">Iustin Mujdei</option>
-              <option value="xxx">Jessey Stoof</option>
               <option value="xx">Jits van Zuijlen</option>
               <option value="xx">Johan Vrijsen</option>
               <option value="xx">Laurentiu-Bogdan Moscalu</option>
